@@ -365,11 +365,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Documentation**: [API Documentation](https://github.com/yourusername/ecommerce-backend-api/wiki)
-- **Issue Tracking**: [GitHub Issues](https://github.com/yourusername/ecommerce-backend-api/issues)
-- **Community**: [Discord Server](https://discord.gg/ecommerceapi)
-- **Email**: support@yourdomain.com
+- **Email**: contact harshittinker1979@gmail.com
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [gitwhisperer](https://github.com/gitwhisperer)
