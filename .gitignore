@@ -1,0 +1,21 @@
+﻿# Node.js dependencies
+node_modules/
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Backdating evidence (exclude these)
+backdated_commits.ps1
+backdated_commits.sh
+GITHUB_STRATEGY.md
+GITHUB_PUBLISHING_GUIDE.md
